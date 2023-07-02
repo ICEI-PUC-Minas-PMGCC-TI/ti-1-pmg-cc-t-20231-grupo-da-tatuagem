@@ -14,4 +14,4 @@ Desenvolvimento de uma plataforma para localização de artistas de várias áre
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Para instalar a aplicação é necessário uma IDE para compilar o código e rodar em algum servidor de sua escolha, sugiro o eclipse com as dependencias necessárias para rodar a aplicação em Java. O Sistema de Banco de Dados utilizado foi o PostgreSQL local. Com o banco populado rode o código e entre no site, navegue a vontade.
